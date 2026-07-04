@@ -1,11 +1,11 @@
 # House Price Prediction
 
-This is a beginner Machine Learning project using Linear Regression to predict house prices based on square footage.
+This is a beginner Machine Learning project using Linear Regression to predict house prices based on square footage.! 
 
-## Technologies Used
+## Technologies Used. 
 - Python
 - Pandas
-- Scikit-learn
+- Scikit-learn.. 
 
 ## Project Goal
 To predict house prices using Linear Regression.# SCT_ML_1
